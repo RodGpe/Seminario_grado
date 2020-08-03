@@ -1,2 +1,2 @@
-# Seminario_grado
-Beam de mi presentación para seminario de obtención de grado
+# Pres-Victor-Neumann-20
+Presentacion hecha en beamer para el coloquio victor neumann lara 2020
